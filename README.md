@@ -1,4 +1,6 @@
 # hello-world
+# 0xAF
 test
-0xAF pop
+0xAF
 # simple test
+
